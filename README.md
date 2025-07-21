@@ -24,7 +24,7 @@ Bienvenido al sitio web oficial de la **Feria de Alcalá de Guadaíra**, un proy
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/feria-alcala.git
+   git clone https://github.com/bogdanmstefan/FeriaAlcalaG.git
 
 2. Abre la carpeta del proyecto en tu entorno local con XAMPP.
 
